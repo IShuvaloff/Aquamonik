@@ -11,9 +11,9 @@
   $mail->IsHtml(true);
 
   // от кого письмо
-  $mail->setFrom('requests@aquamonik-pro.ru', 'Aquamonik-pro.ru');
+  $mail->setFrom('requests@mail.ru', 'Aquamonik-pro.ru');
   // кому письмо
-  $mail->addAddress('aqua-monik@yandex.ru');
+  $mail->addAddress('mail@mail.ru');
   // тема письма
   $mail->Subject = 'Новая заявка с сайта Aquamonik-pro.ru';
 

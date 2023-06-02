@@ -26,7 +26,7 @@
             "Email: $email\n".
             "Сообщение: $body";
 
-    if( mail("requests@aquamonik-pro.ru", "Заявка с сайта AquaMonik", $text, "From: AquaMonik <requests@aquamonik-pro.ru>") ){
+    if( mail("requests@mail.ru", "Заявка с сайта AquaMonik", $text, "From: AquaMonik <requests@mail.ru>") ){
       echo "Сообщение успешно отправлено";
     } else {
       echo "При отправке сообщения возникли ошибки";
@@ -41,16 +41,4 @@
   <input type="email" name="email" placeholder="Укажите e-mail" required>
   <textarea name="body" form="request-form" cols="30" rows="5" placeholder="Введите текст"></textarea>
   <input type="submit" value="Отправить">
-</form> 
-<!-- 
-  <div class="popup" id="popup">
-    <div class="popup__body">
-      <div class="popup__content">
-        <a href="" class="popup__close">X</a>
-        <div class="popup__title">Это модальное окно №1</div>
-        <div class="popup__text">
-          Далеко-далеко за словесными горами в стране гласных и согласных живут рыбные тексты. Что алфавит свою напоивший переулка не, назад большого продолжил взгляд?
-        </div>
-      </div>
-    </div>
-  </div> -->
+</form>

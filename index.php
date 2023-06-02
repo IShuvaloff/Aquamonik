@@ -16,7 +16,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Водоподготовка и очистка воды в Москве и по всей России. Индивидуальный пакет предложений. Быстрый выезд на объект. Работаем с любыми заявками. Звоните: +7 (926) 078-66-92">
+  <meta name="description" content="Водоподготовка и очистка воды в Москве и по всей России. Индивидуальный пакет предложений. Быстрый выезд на объект. Работаем с любыми заявками. Звоните: +7 (000) 000-00-00">
   <meta name="keywords" content="аквамоник, про, водоподготовка, систем, очистка воды, монтаж систем водоподготовки, промышленных объектах, частного дома, квартире">
   <meta name="robots" content="index, follow">
 
@@ -90,11 +90,11 @@
             <div class="row justify-content-end header-contacts">
               <div class="col-12 col-sm-6 col-md-12 col-lg-12 header-text">
                 <i class="icon-phone fa-padding-right"></i>
-                <a href="tel:+79260786692"> +7 (926) 078-66-92</a>
+                <a href="tel:+70000000000"> +7 (000) 000-00-00</a>
               </div>
               <div class="col-12 col-sm-6 col-md-12 col-lg-12 header-text">
                 <i class="icon-mail-alt fa-padding-right"></i>
-                <a href="mailto:aqua-monik@yandex.ru">Aqua-Monik@yandex.ru</a>
+                <a href="mailto:mail@mail.ru">Mail@mail.ru</a>
               </div>
             </div>
           </div>
@@ -142,10 +142,10 @@
         <!-- ТЕЛЕФОНЫ -->
         <div class="col-12 col-md-4 footer-row footer-phones" id="phones">
           <div class="row">
-            <div class="col-12 footer-row"><i class="icon-phone fa-padding-right"></i><a href="tel:+79260786692"
-                class="footer-text"> +7 (926) 078-66-92</a></div>
-            <div class="col-12 footer-row"><i class="icon-phone fa-padding-right"></i><a href="tel:+79296181887"
-                class="footer-text"> +7 (929) 618-18-87</a></div>
+            <div class="col-12 footer-row"><i class="icon-phone fa-padding-right"></i><a href="tel:+70000000000"
+                class="footer-text"> +7 (000) 000-00-00</a></div>
+            <div class="col-12 footer-row"><i class="icon-phone fa-padding-right"></i><a href="tel:+70000000000"
+                class="footer-text"> +7 (000) 000-00-00</a></div>
             <!-- <div class="col-12 footer-row"><i class="icon-phone fa-padding-right"></i><a href="tel:+79775192616"
                 class="footer-text"> +7 (977) 519-26-16</a></div> -->
           </div>
@@ -156,14 +156,14 @@
             <!-- ПОЧТА -->
             <div class="col-12">
               <i class="icon-mail fa-padding-right"></i><a
-              href="mailto:aqua-monik@yandex.ru" class="footer-text">Aqua-Monik@yandex.ru</a></div>
+              href="mailto:mail@mail.ru" class="footer-text">Mail@mail.ru</a></div>
             <!-- СОЦИАЛЬНЫЕ СЕТИ -->
             <div class="col-12">
               <i class="icon-vkontakte fa-padding-right"></i><a
-              href="https://vk.com/public199219051/" class="footer-text" target="_blank">АкваМоник ВКонтакте</a></div>
+              href="https://vk.com/_/" class="footer-text" target="_blank">АкваМоник ВКонтакте</a></div>
             <div class="col-12">
               <i class="icon-instagram fa-padding-right"></i><a
-              href="https://www.instagram.com/akvamonik/" class="footer-text" target="_blank">АкваМоник Инстаграм</a></div>
+              href="https://www.instagram.com/_/" class="footer-text" target="_blank">АкваМоник Инстаграм</a></div>
           </div>
         </div>
       </div>
@@ -171,7 +171,7 @@
       <!-- ? мой копирайт -->
       <div class="footer-copyright">
         <!-- <p class="footer-text">&copy; Разработка <a href="http://ishuvaloff.ru/" target="_blank">iShuvaloff.ru</a></p> -->
-        <p class="footer-text">&copy; Разработка <a href="https://vk.com/i.a.shuvalov" target="_blank">iShuvaloff.ru</a></p>
+        <p class="footer-text">&copy; Разработка <a href="https://vk.com/i.a.shuvalov" target="_blank">iShuvaloff</a></p>
         <p class="footer-text">Изображения для сайта <a href="https://ru.freepik.com/photos/water" target="_blank">ru.freepik.com</a></p>
       </div>
     </div>
